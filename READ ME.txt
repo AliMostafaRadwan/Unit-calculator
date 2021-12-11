@@ -1,0 +1,7 @@
+this is a unit convertor calculator. 
+
+you can use it like a normal calculator too :)
+
+made by >>> Ali Mostafa Amin
+
+you can find the guide in a file called (quds.xlsx)
